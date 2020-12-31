@@ -54,13 +54,14 @@
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
-    <tr>
+  <tr>
     <th >16-18</th>
     <th >14-16</th>
     <th >12-14</th>
     <th>10-12</th>
     <th>8-10</th>
     <th>روز</th>
+  </tr>
   <tr>
     <th ></th>
     <th ></th>
@@ -79,13 +80,13 @@
   </tr>
    <tr>
     <th ></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods">روش پژوهش و ارائه</a></th>
     <th ></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods"> روش پژوهش و ارائه</a></th>
-    <tr></th>
+    <th></th>
     <th ></th>   
     <th>دوشنبه</th>
-    </tr>
-     <tr>
+  </tr>
+   <tr>
     <th ></th>
     <th ></th>
     <th></th>
@@ -104,9 +105,9 @@
    <tr>
     <th ></th>
      <th ></th>
-     <th></th>
      <th ></th>
-      <th ></th>
+     <th></th>
+    <th></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
