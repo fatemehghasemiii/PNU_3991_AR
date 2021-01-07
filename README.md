@@ -37,7 +37,7 @@
 
 ## جستجو منابع دیگر 
 
-[پایانامه ارشد دانشگاه ایالتی اوهایو با موضوع :Measurement of machine learning performance with different condition and hyperparameter](https://oatd.org/oatd/search?q=id%3A%22oai%3Aetd.ohiolink.edu%3Aosu1587693436870594%22)
+[پایان نامه ارشد دانشگاه ایالتی اوهایو با موضوع :Measurement of machine learning performance with different condition and hyperparameter](https://oatd.org/oatd/search?q=id%3A%22oai%3Aetd.ohiolink.edu%3Aosu1587693436870594%22)
 
 ------------
 # گروه ها
