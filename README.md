@@ -18,6 +18,19 @@
 - [SOP](http://fatemehghasemiii.github.io/sop/)
 - [JavaScript certificate](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/js.jpg)
 - [jlord patchwork](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/jlord.PNG)
+
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+
+##  بخش دروس كارشناسي
+- [خلاصه ارزیابی درس_روش پژوهش وارائه]()
+
+
+
+
 --------------------
 # فعالیت گروهی
 
