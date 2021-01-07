@@ -3,12 +3,6 @@
 
 ![Project ](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/SoftwareManagement/jsw-header-illustrations---v3.png)
 
-
-
-
-
-
-
 # فاطمه قاسمی نیاسر
  
 ---
@@ -25,7 +19,7 @@
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/fatemehghasemiii/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
 
-##  بخش دروس كارشناسي
+## بخش دروس کارشناسی
 - [خلاصه ارزیابی درس_روش پژوهش وارائه]()
 
 
@@ -40,7 +34,12 @@
 
 [دانشگاه بوشهر](http://smbidoki.ir/crsdetail.php?crsid=41)
 
-------------------
+
+## جستجو منابع دیگر 
+
+[پایانامه ارشد دانشگاه ایالتی اوهایو با موضوع :Measurement of machine learning performance with different condition and hyperparameter](https://oatd.org/oatd/search?q=id%3A%22oai%3Aetd.ohiolink.edu%3Aosu1587693436870594%22)
+
+------------
 # گروه ها
  1. [ RPM-51 فاطمه قاسمی نیاسر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/51_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A%20%D9%86%D9%8A%D8%A7%D8%B3%D8%B1)
  
